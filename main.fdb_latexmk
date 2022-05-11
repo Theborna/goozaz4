@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1652253602 "main.xdv" "main.pdf" "main" 1652253608
-  "main.xdv" 1652253602 65820 a3eb06fb4312187ca199001f3db3a4a5 "xelatex"
+["xdvipdfmx"] 1652253862 "main.xdv" "main.pdf" "main" 1652253867
+  "main.xdv" 1652253861 65572 484a6c8e4582abf623d354625600dcd6 "xelatex"
   (generated)
   "main.pdf"
-["xelatex"] 1652253599 "f:/uni/fatoot/gooz az/goozaz4/main.tex" "main.xdv" "main" 1652253608
+["xelatex"] 1652253857 "f:/uni/fatoot/gooz az/goozaz4/main.tex" "main.xdv" "main" 1652253867
   "62.png" 1647978473 12151 908dd55c5271716f7a77323a8a57a0ad ""
   "C:/Users/hp/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1647947449 23670222 893b03a1aa32af0a6500ff740e97f75b ""
   "C:/Users/hp/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -80,18 +80,18 @@
   "Q6/pishAlef.png" 1652195787 93867 0821c2f1357d4d6489491b668dd15188 ""
   "Q6/pishB.png" 1652197322 186225 13bf21d81203c97a00c9482a95d3d61c ""
   "Q6/pishJ.png" 1652197354 359251 24e1d0f0800253f75f5f94f4faecb199 ""
-  "Q6/q6.tex" 1652199353 1671 6938643f590578a4ee30e9bc3ca2e380 ""
+  "Q6/q6.tex" 1652253852 1663 c10fe7394d8bb5b4fa98ce9bd28cc745 ""
   "Q7/madarAlef.png" 1652251902 21537 6b668278bdf33b3a59cb8768975de2dd ""
   "Q7/nemudarAlef.png" 1652252553 112650 8f6524fbbafab5b878af732e27af3dfd ""
   "Q7/oscB.png" 1652253141 285365 6ede731e124b572f0f7e7ce6cf243ca5 ""
   "Q7/pishAlef.png" 1652251287 119588 68f11b7115753342f0908a3f35b0bab6 ""
   "Q7/pishB.png" 1652251305 143192 99c2b60486cb717fb716b4bd3496b611 ""
   "Q7/pishJ.png" 1652251321 165496 82103e14963c08087b5e973d654cb9b2 ""
-  "Q7/q7.tex" 1652253593 3346 d263b28204b1e95d72c91741d201b6a9 ""
+  "Q7/q7.tex" 1652253619 3346 d263b28204b1e95d72c91741d201b6a9 ""
   "f:/uni/fatoot/gooz az/goozaz4/main.tex" 1652251031 375 1d22f0a50d16adfaa5a872d3ded48972 ""
-  "main.aux" 1652253602 4047 e943a06729598f84b3fbb8312ad3afb2 "xelatex"
+  "main.aux" 1652253861 4042 ea0b5650c2ff1d61d750e1029ce03fe3 "xelatex"
   "main.tex" 1652251031 375 1d22f0a50d16adfaa5a872d3ded48972 ""
-  "main.toc" 1652253602 1203 9f75aafa309ed904440c5357b38bde63 "xelatex"
+  "main.toc" 1652253861 1201 bcc376ab7b8f04de790648a6f139024a "xelatex"
   "titlepage.tex" 1652018365 658 b8528afdaa924cc35c2601db8e1b67b9 ""
   (generated)
   "main.aux"

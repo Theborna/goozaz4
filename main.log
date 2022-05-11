@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.3.22)  11 MAY 2022 11:49
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.3.22)  11 MAY 2022 11:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -510,19 +510,13 @@ File: Q6/alefNemudar.png Graphic file (type bmp)
 [7]
 File: Q6/pishB.png Graphic file (type bmp)
 <Q6/pishB.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 33--34
- [][][][] 
- []
-
-[8]
 File: Q6/pishJ.png Graphic file (type bmp)
 <Q6/pishJ.png>
 File: Q6/pSpiceMadar.png Graphic file (type bmp)
 <Q6/pSpiceMadar.png>
 File: Q6/pSpiceNemud.png Graphic file (type bmp)
 <Q6/pSpiceNemud.png>
-) (Q7/q7.tex [9]
+) (Q7/q7.tex [8]
 File: Q7/pishAlef.png Graphic file (type bmp)
 <Q7/pishAlef.png>
 
@@ -534,7 +528,7 @@ File: Q7/madarAlef.png Graphic file (type bmp)
 <Q7/madarAlef.png>
 File: Q7/nemudarAlef.png Graphic file (type bmp)
 <Q7/nemudarAlef.png>
-[10]
+[9]
 File: Q7/pishB.png Graphic file (type bmp)
 <Q7/pishB.png>
 
@@ -544,7 +538,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 38--39
 
 File: Q7/oscB.png Graphic file (type bmp)
 <Q7/oscB.png>
-[11]
+[10]
 File: Q7/pishJ.png Graphic file (type bmp)
 <Q7/pishJ.png>
 
@@ -552,7 +546,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 59--60
  [][][][] 
  []
 
-) [12] (main.aux) ) 
+) [11] (main.aux) ) 
 Here is how much of TeX's memory you used:
  7245 strings out of 410967
  175039 string characters out of 2824362
@@ -562,4 +556,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  88i,10n,97p,1339b,272s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on main.xdv (13 pages, 65820 bytes).
+Output written on main.xdv (12 pages, 65572 bytes).
