@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.3.22)  8 MAY 2022 18:35
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.3) (preloaded format=xelatex 2022.3.22)  11 MAY 2022 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -40,6 +40,20 @@ File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
+) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 ) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -242,6 +256,13 @@ File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX eng
 \footdir@toks=\toks29
 ) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\article-xetex-bidi.def
 File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard article class for XeTeX engine
+) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package for XeTeX engine
+LaTeX Info: Redefining \color on input line 50.
+) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
 ) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\graphicx-xetex-bidi.def
 File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx package for XeTeX engine
 ) (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/xelatex/bidi\geometry-xetex-bidi.def
@@ -345,29 +366,34 @@ Package fontspec Info: Font family 'Yas(0)' created for font 'Yas' with
 (fontspec)             <->"Yas/BI/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
- (main.aux)
+
+
+LaTeX Warning: Unused global option(s):
+    [12px].
+
+(main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
  (C:\Users\hp\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -408,14 +434,132 @@ File: 62.png Graphic file (type bmp)
 <62.png>
  [1
 
-]) (Q1/q1.tex) (Q2/q2.tex) (Q3/q3.tex) (Q4/q4.tex) (Q5/q5.tex) [1] (main.aux) ) 
-Here is how much of TeX's memory you used:
- 6596 strings out of 410967
- 166127 string characters out of 2824362
- 595102 words of memory out of 3000000
- 27210 multiletter control sequences out of 15000+600000
- 469491 words of font info for 57 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 88i,5n,97p,1339b,251s stack positions out of 10000i,1000n,20000p,200000b,80000s
+]) (main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
-Output written on main.xdv (2 pages, 3580 bytes).
+ [1] (Q1/q1.tex) [2] (Q2/q2.tex
+Overfull \hbox (5.3839pt too wide) in paragraph at lines 11--22
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--37
+[][]
+ []
+
+) (Q3/q3.tex [3]) [4] (Q4/q4.tex
+File: Q4/pish.png Graphic file (type bmp)
+<Q4/pish.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 10--11
+ [][][][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--24
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+[][]
+ []
+
+) [5] (Q5/q5.tex) [6] (Q6/q6.tex
+File: Q6/pishAlef.png Graphic file (type bmp)
+<Q6/pishAlef.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 6--7
+ [][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[][]
+ []
+
+File: Q6/alefNemudar.png Graphic file (type bmp)
+<Q6/alefNemudar.png>
+[7]
+File: Q6/pishB.png Graphic file (type bmp)
+<Q6/pishB.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 33--34
+ [][][][] 
+ []
+
+[8]
+File: Q6/pishJ.png Graphic file (type bmp)
+<Q6/pishJ.png>
+File: Q6/pSpiceMadar.png Graphic file (type bmp)
+<Q6/pSpiceMadar.png>
+File: Q6/pSpiceNemud.png Graphic file (type bmp)
+<Q6/pSpiceNemud.png>
+) (Q7/q7.tex [9]
+File: Q7/pishAlef.png Graphic file (type bmp)
+<Q7/pishAlef.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 5--6
+ [][][][] 
+ []
+
+File: Q7/madarAlef.png Graphic file (type bmp)
+<Q7/madarAlef.png>
+File: Q7/nemudarAlef.png Graphic file (type bmp)
+<Q7/nemudarAlef.png>
+[10]
+File: Q7/pishB.png Graphic file (type bmp)
+<Q7/pishB.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 38--39
+ [][][][] 
+ []
+
+File: Q7/oscB.png Graphic file (type bmp)
+<Q7/oscB.png>
+[11]
+File: Q7/pishJ.png Graphic file (type bmp)
+<Q7/pishJ.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 59--60
+ [][][][] 
+ []
+
+) [12] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 7245 strings out of 410967
+ 175039 string characters out of 2824362
+ 612837 words of memory out of 3000000
+ 27813 multiletter control sequences out of 15000+600000
+ 472259 words of font info for 70 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 88i,10n,97p,1339b,272s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+Output written on main.xdv (13 pages, 65820 bytes).

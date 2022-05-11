@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}سوال 1}{2}{}%
+\contentsline {section}{\numberline {2}سوال 2) آشنایی با مقادیر عناصر}{3}{}%
+\contentsline {subsubsection}{\numberline {2.0.1}تحلیل خطا}{3}{}%
+\contentsline {section}{\numberline {3}}{4}{}%
+\contentsline {section}{\numberline {4}سوال 4)}{5}{}%
+\contentsline {subsection}{\numberline {4.1}مقاومت $1k\Omega $}{5}{}%
+\contentsline {subsection}{\numberline {4.2}مقاومت $100\Omega $}{5}{}%
+\contentsline {subsection}{\numberline {4.3}مقاومت $10\Omega $}{5}{}%
+\contentsline {section}{\numberline {5}}{6}{}%
+\contentsline {section}{\numberline {6}آشنایی با مشخصه i-v یک دیود}{7}{}%
+\contentsline {subsection}{\numberline {6.1}الف)}{7}{}%
+\contentsline {subsection}{\numberline {6.2}ب)}{8}{}%
+\contentsline {subsection}{\numberline {6.3}ج)}{9}{}%
+\contentsline {section}{\numberline {7}آشنایی با مشخضه i-v دیود}{10}{}%
+\contentsline {subsection}{\numberline {7.1}الف)}{10}{}%
+\contentsline {subsection}{\numberline {7.2}ب)}{11}{}%
+\contentsline {subsection}{\numberline {7.3}ج)}{12}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}تئوری}{12}{}%
